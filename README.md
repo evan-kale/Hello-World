@@ -1,12 +1,23 @@
-# Contents
+# README
+
+## Contents
 - Title
 - Desc.
 - Project Goal
 - Files
 - How To
-- Additionsl Docs
+- Additional Docs
 - Versioning
 
 
-# Title
-Hello-World SetUp
+## Title
+**_Hello-World Sample_**
+
+## Description
+**This is the README file**
+
+## How To
+
+## Files Used
+
+## Additional Documentation
